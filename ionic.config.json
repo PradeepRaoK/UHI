@@ -1,0 +1,7 @@
+{
+  "name": "uhi-eua-app-service",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
